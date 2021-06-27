@@ -1,0 +1,4 @@
+.category {display: inline-block;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: black;}
+.header_logo{display: inline-block;color: black;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: 60px;}
+.link{display: inline-block;}
+.header__container{border:2px solid}
