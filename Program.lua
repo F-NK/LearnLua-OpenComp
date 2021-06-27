@@ -7,3 +7,8 @@ for j = 1, 20 do
     A = a*b
 end
 print (A)
+for g = 1, 100, 10 do 
+
+
+print ("Zalupa")
+end
